@@ -1,6 +1,6 @@
 import Editor from './src/main';
 
-Alert.install = function (Vue) {
+Editor.install = function (Vue) {
     Vue.component(Editor.name, Editor);
 };
 
