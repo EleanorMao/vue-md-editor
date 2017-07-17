@@ -1,0 +1,31 @@
+{
+  "name": "vue-md-editor",
+  "version": "1.0.0",
+  "description": "vue markdown editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EleanorMao/vue-md-editor.git"
+  },
+  "keywords": [
+    "vue",
+    "markdown",
+    "editor"
+  ],
+  "author": "EleanorMao <danningmao@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EleanorMao/vue-md-editor/issues"
+  },
+  "homepage": "https://github.com/EleanorMao/vue-md-editor#readme",
+  "dependencies": {
+    "hyperdown": "^2.1.1",
+    "vue-pop": "^0.1.7"
+  },
+  "devDependencies": {
+    "vue": "^2.4.1"
+  }
+}
